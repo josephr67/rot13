@@ -1,0 +1,38 @@
+body {
+	margin: 0px;
+	font-size: 1.1em;
+	text-align: center;
+	
+}
+
+
+footer, nav {
+	padding: 55px; 
+	text-align: center;
+}
+
+nav ul li {
+	display: inline;
+    margin-right: 10px;
+}
+
+a {
+	color: 		#1486ff;
+	font-weight: bold;
+	text-align: center;
+}
+
+h1 {
+	margin: 35px;
+	text-align: center;
+	color: 		#1486ff;
+	
+}
+
+
+#banner-text {
+	font-weight: bold;
+	padding: 200px 100px;
+	text-align: left;
+}
+
